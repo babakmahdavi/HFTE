@@ -1,5 +1,5 @@
 # HFTE
-Context: Supporting material for the paper "[Guidelines for Building a Realistic Algorithmic Trading Market Simulator for Backtesting while Incorporating Market Impact](https://www.researchgate.net/publication/334773177_Guidelines_for_Building_a_Realistic_Algorithmic_Trading_Market_Simulator_for_Backtesting_while_Incorporating_Market_Impact)" What it does: This is a simplification of the HFT game. We examine, in sequence how different classic financial strategies fair with respect to each other via an orderbook
+Context: Supporting material for the paper "[Guidelines for Building a Realistic Algorithmic Trading Market Simulator for Backtesting while Incorporating Market Impact](https://www.researchgate.net/publication/334773177_Guidelines_for_Building_a_Realistic_Algorithmic_Trading_Market_Simulator_for_Backtesting_while_Incorporating_Market_Impact)". What it does: This is a simplification of the HFT game. We examine, in sequence how different classic financial strategies fair with respect to each other via an orderbook
 
 About the file:
 - HFTEgame: illustrates how simple strategies do when communicating through an orderbook
